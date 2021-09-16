@@ -1,0 +1,31 @@
+
+
+/* header  */
+
+.title{
+    color: hsl(27, 100%, 50%);
+
+}
+
+img{
+    height: 150px;
+    width: 150px;
+    object-fit: contain;
+    
+}
+
+.price-area{
+    box-shadow: 3px 4px 10px 0;
+    padding: 25px;
+}
+
+.price-area{
+    position: fixed;
+   right: 0;
+   top: 20%;
+  
+}
+
+.productCard{
+    background-color: bisque;
+}
